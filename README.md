@@ -2,13 +2,6 @@
 
 I build digital products with a focus on clear code, thoughtful user experience, and solutions that can evolve over time.
 
-## About me
-
-- I enjoy taking ideas from rough concept to working product.
-- I work across frontend, backend, and developer tooling.
-- I value simple architecture, clear interfaces, and code that other people can confidently build on.
-- I am constantly learning more about modern development workflows, AI-assisted product development, and automation.
-
 ## Tech I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
